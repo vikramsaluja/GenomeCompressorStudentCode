@@ -1,9 +1,11 @@
-Name: YOUR NAME HERE
+Name: Vikram Saluja
 
-| Date    |  Time  |                                     Update |
-|:--------|:------:|-------------------------------------------:|
-| April 5 | 9-10pm | I tried to write abstract, efficient code. |
-|         |        |                                            |
+| Date    |   Time    |                                                                                                                                                                                                                                                                                                                                                                                                                                                                               Update |
+|:--------|:---------:|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+| April 5 |  9-10pm   |                                                                                                                                                                                                                                                                                                                                                                                                                                           I tried to write abstract, efficient code. |
+| Nov 17  | 9:15-9:55 | During this time I completed the compress and expand functions. For the compession I knew that I had wanted to represent the same data in a few number of bits, so to do so I am representing each charecter with a number instead. This takes up less memory, thus makes my compress functions effective. I also completed the expand function and did the same thing in reverse. I am comparing the key which is assigned to character to then return the fully expanded sequence. |
+| Nov 19  | 1:15-1:45 |                                                                                                                     Before, I used a while loop but in this time I added headers to make my code work for the edge cases. This is nessacry since it was something that my code previously did not have. I have also tried to make my code more abstract by using helper methods to do the actual comparisons rather than doing the whole thing in the compress and expand functions. |
+|         |           |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 
 
 To add a new row to the table, click into a cell and then hit shift-enter.

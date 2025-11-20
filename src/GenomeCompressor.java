@@ -40,6 +40,7 @@ public class GenomeCompressor {
             BinaryStdOut.write(key, 2);
         }
         BinaryStdOut.close();
+
     }
 
     /**
